@@ -23,3 +23,10 @@ It looks
 <p align="left">
   <img src="./og-image.png" width="300" alt="og-image" />
 </p>
+
+
+## TODO
+- [ ] Custom CSS Properties
+- [ ] PWA Support 
+- [ ] New Social Accounts
+- [ ] and more...

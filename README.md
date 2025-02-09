@@ -1,6 +1,23 @@
 # og-image-generator
 
-You can generate dynamic Open Graph Images that you can embed in your `<meta>` tags for blog posts.
+You can generate Open Graph Images that you can embed in your `<meta>` tags for blog posts.
+
+## Features
+
+- OG image generation
+- Customizable title, author, and job information
+
+## Setup
+
+1. Clone the repository
+2. Install dependencies:
+```bash
+npm install
+```
+3. Run the development server:
+```bash
+npm run dev
+```
 
 ## Open Graph Image
 
@@ -24,9 +41,3 @@ It looks
   <img src="./og-image.png" width="300" alt="og-image" />
 </p>
 
-
-## TODO
-- [ ] Custom CSS Properties
-- [ ] PWA Support 
-- [ ] New Social Accounts
-- [ ] and more...
